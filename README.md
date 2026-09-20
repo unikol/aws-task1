@@ -1,3 +1,4 @@
+[![Test AWS Terraform](https://github.com/unikol/aws-task1/actions/workflows/main.yml/badge.svg)](https://github.com/unikol/aws-task1/actions/workflows/main.yml)
 # Task on the topic AWS and Terraform
 
 ## Task
